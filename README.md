@@ -5,6 +5,9 @@
 📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
 🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**.
 
+🚀 Creo que la actitud, la curiosidad y la colaboración son tan importantes como la técnica. Me esfuerzo por mantener una mentalidad de aprendizaje continuo, compartir conocimiento y aportar siempre una energía positiva al equipo.
+
+
 ---
 
 ## 🧠 Conjunto de Habilidades
