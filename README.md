@@ -1,36 +1,62 @@
-# 👋 Hi there, I'm **Jholman Camilo Díaz Osuna**
+# 👋 ¡Hola! Soy **Jholman Díaz**
 
-🎓 I'm a **Systems Engineering student** passionate about **Data Engineering, Machine Learning, and Software Development**.  
-💼 My work focuses on designing data pipelines, building efficient systems, and exploring AI-driven solutions to solve real-world problems.  
-🤝 I'm open to collaborating on innovative projects involving **data, backend development, or cloud technologies**.
-
----
-
-## 🧠 Skill Set
-
-### 💻 Programming Languages  
-🟩 Python &nbsp;&nbsp;|&nbsp;&nbsp; ☕ Java &nbsp;&nbsp;|&nbsp;&nbsp; 💛 JavaScript &nbsp;&nbsp;|&nbsp;&nbsp; 💾 SQL &nbsp;&nbsp;|&nbsp;&nbsp; 🔷 TypeScript  
-
-### ⚙️ Libraries & Frameworks  
-🔹 TensorFlow &nbsp;&nbsp;|&nbsp;&nbsp; 🔹 Scikit-learn &nbsp;&nbsp;|&nbsp;&nbsp; 🔹 Pandas  
-🔹 Flask &nbsp;&nbsp;|&nbsp;&nbsp; 🔹 React &nbsp;&nbsp;|&nbsp;&nbsp; 🔹 Node.js  
-
-### ☁️ Infrastructure & Cloud  
-☁️ AWS &nbsp;&nbsp;|&nbsp;&nbsp; 🐳 Docker &nbsp;&nbsp;|&nbsp;&nbsp; ☸️ Kubernetes &nbsp;&nbsp;|&nbsp;&nbsp; 🚀 Heroku  
-
-### 🗄️ Databases  
-🛢️ MySQL &nbsp;&nbsp;|&nbsp;&nbsp; 🐘 PostgreSQL &nbsp;&nbsp;|&nbsp;&nbsp; 🍃 MongoDB &nbsp;&nbsp;|&nbsp;&nbsp; 🧡 Oracle  
-
-### 🧰 Tools  
-🔧 Git &nbsp;&nbsp;|&nbsp;&nbsp; 🧑‍💻 GitHub &nbsp;&nbsp;|&nbsp;&nbsp; 🪶 VS Code &nbsp;&nbsp;|&nbsp;&nbsp; 📓 Jupyter &nbsp;&nbsp;|&nbsp;&nbsp; 🐧 Linux (Ubuntu) &nbsp;&nbsp;|&nbsp;&nbsp; ⚡ ZSH  
+🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
+💼 Me especializo en la **extracción, transformación y carga (ETL)** de datos, el **diseño de data warehouses**, y la **visualización analítica** para la toma de decisiones empresariales.  
+📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
+🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**.
 
 ---
 
-> 💬 *“Data turns experience into insight — I love building systems that make that happen.”*
+## 🧠 Conjunto de Habilidades
 
-📫 **Let's connect:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](#)  
+### 💻 Lenguajes de Programación  
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/) &nbsp;&nbsp;
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/) &nbsp;&nbsp;
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript) &nbsp;&nbsp;
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/) &nbsp;&nbsp;
+[![SQL](https://skillicons.dev/icons?i=mysql)](https://en.wikipedia.org/wiki/SQL)
+
+---
+
+### ⚙️ Librerías y Frameworks  
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://pandas.pydata.org/) &nbsp;&nbsp;
+[![Numpy](https://skillicons.dev/icons?i=numpy)](https://numpy.org/) &nbsp;&nbsp;
+[![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com/) &nbsp;&nbsp;
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/) &nbsp;&nbsp;
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/) &nbsp;&nbsp;
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+
+---
+
+### ☁️ Infraestructura y Nube  
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/) &nbsp;&nbsp;
+
+
+---
+
+### 🗄️ Bases de Datos  
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/) &nbsp;&nbsp;
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/) &nbsp;&nbsp;
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/) &nbsp;&nbsp;
+
+
+---
+
+### 🧰 Herramientas  
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) &nbsp;&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/) &nbsp;&nbsp;
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) &nbsp;&nbsp;
+&nbsp;&nbsp;
+[![Linux](https://skillicons.dev/icons?i=linux)](https://ubuntu.com/) &nbsp;&nbsp;
+[![ZSH](https://skillicons.dev/icons?i=terminal)](https://www.zsh.org/)
+
+---
+
+> 💬 *“Los datos transforman la experiencia en conocimiento — me apasiona construir sistemas que hagan posible ese cambio.”*
+
+📫 **Conecta conmigo:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/camilo-diaz-09a2a1391/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilo20263@gmail.com)
 
 ---
