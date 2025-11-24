@@ -68,87 +68,87 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilo20263@gmail.com)
 
-<h2 align="left">📚 | Educación / Educación Complementaria </h2>
+---
+
+# 📚 | Educación / Educación Complementaria
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
       <td align="center">
-       <strong>F. U. KONRAD LORENZ</strong><br>
-       <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
-       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
-       <strong>Ingeniería de Sistemas</strong>
-       <br>Enero 2022 -  Presente<br>
+        <strong>F. U. KONRAD LORENZ</strong><br>
+        <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" /><br>
+        <img src="https://flagcdn.com/co.svg" height="20"/><br>
+        <strong>Ingeniería de Sistemas</strong><br>
+        Enero 2022 - Presente
       </td>
+
       <td align="center">
-       <strong>PLATZI</strong><br>
-       <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
-       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
-       <strong>Data Engineer</strong>
-       <br>Noviembre 2025 – Presente<br>
+        <strong>PLATZI</strong><br>
+        <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90"/><br>
+        <img src="https://flagcdn.com/us.svg" height="20"/><br>
+        <strong>Data Engineer</strong><br>
+        Noviembre 2025 – Presente
       </td>
+
       <td align="center">
-       <strong>DATACAMP</strong><br>  
-       <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
-       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
-       <strong>Habilidades Tecnológicas</strong>
-       <br>Noviembre 2025 – Presente<br>
+        <strong>DATACAMP</strong><br>
+        <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90"/><br>
+        <img src="https://flagcdn.com/us.svg" height="20"/><br>
+        <strong>Habilidades Tecnológicas</strong><br>
+        Noviembre 2025 – Presente
       </td>
-      
+    </tr>
   </table>
 </div>
-<h2 align="left">📊 | Estadísticas de GitHub </h2>
+
+---
+
+# 📊 | Estadísticas de GitHub
 <table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lenguajes más Utilizados</strong></h3>
       <p align="center">
-        <a href="https://github.com/pablordata">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablordata&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
+        <a href="https://github.com/camilo20262">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilo20262&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true"/>
         </a>
       </p>
     </td>
+
     <td width="50%">
-      <h3 align="center"><strong>Estadísticas deL GitHub</strong></h3>
+      <h3 align="center"><strong>Estadísticas de GitHub</strong></h3>
       <p align="center">
-        <a href="https://github.com/pablordata">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablordata&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="pablordata" />
+        <a href="https://github.com/camilo20262">
+          <img src="https://github-readme-stats.vercel.app/api?username=camilo20262&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true"/>
         </a>
       </p>
     </td>
   </tr>
+
   <tr>
-    <td width="50%">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-        </a>
-      </p>
-    </td>
-  </tr>
-<tr>
     <td width="50%">
       <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
-        <a href="https://github.com/pablordata">
-          <img align="center" src="https://streak-stats.demolab.com?user=pablordata&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
+        <a href="https://github.com/camilo20262">
+          <img src="https://streak-stats.demolab.com?user=camilo20262&theme=codeSTACKr&hide_border=true"/>
         </a>
       </p>
     </td>
-<td width="50%">
-  <h3 align="center"><strong>Último Proyecto</strong></h3>
-  <p align="center">
-    <a href="https://github.com/pablordata/proyecto-clima">
-      <img align="center" width="470"
-           src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=proyecto-clima&theme=codeSTACKr&hide_border=true"
-           alt="proyecto-clima"/>
-    </a>
-  </p>
-</td>
+
+    <td width="50%">
+      <h3 align="center"><strong>Último Proyecto</strong></h3>
+      <p align="center">
+        <a href="https://github.com/camilo20262/Trabajo-Final">
+          <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=camilo20262&repo=Trabajo-Final&theme=codeSTACKr&hide_border=true"/>
+        </a>
+      </p>
+    </td>
   </tr>
 </table>
-<br />
-<h2 align="left">📈 | Estadísticas de GitHub </h2>
+
+<br>
+
+# 📈 | Actividad Reciente
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=true" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camilo20262&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=true">
 </div>
