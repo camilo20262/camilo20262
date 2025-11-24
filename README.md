@@ -74,30 +74,27 @@
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
-      <td align="center">
-        <strong>F. U. KONRAD LORENZ</strong><br>
-        <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" /><br>
-        <img src="https://flagcdn.com/co.svg" height="20"/><br>
-        <strong>Ingeniería de Sistemas</strong><br>
-        Enero 2022 - Presente
+       <td align="center">
+       <strong>F. U. KONRAD LORENZ</strong><br>
+       <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
+       <strong>Ingeniería de Sistemas</strong>
+       <br>Enero 2022 -  Presente<br>
       </td>
-
       <td align="center">
-        <strong>PLATZI</strong><br>
-        <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90"/><br>
-        <img src="https://flagcdn.com/us.svg" height="20"/><br>
-        <strong>Data Engineer</strong><br>
-        Noviembre 2025 – Presente
+       <strong>PLATZI</strong><br>
+       <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
+       <strong>Data Engineer</strong>
+       <br>Noviembre 2025 – Presente<br>
       </td>
-
       <td align="center">
-        <strong>DATACAMP</strong><br>
-        <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90"/><br>
-        <img src="https://flagcdn.com/us.svg" height="20"/><br>
-        <strong>Habilidades Tecnológicas</strong><br>
-        Noviembre 2025 – Presente
+       <strong>DATACAMP</strong><br>  
+       <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
+       <strong>Habilidades Tecnológicas</strong>
+       <br>Noviembre 2025 – Presente<br>
       </td>
-    </tr>
   </table>
 </div>
 
@@ -114,15 +111,6 @@
         </a>
       </p>
     </td>
-
-    <td width="50%">
-      <h3 align="center"><strong>Estadísticas de GitHub</strong></h3>
-      <p align="center">
-        <a href="https://github.com/camilo20262">
-          <img src="https://github-readme-stats.vercel.app/api?username=camilo20262&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true"/>
-        </a>
-      </p>
-    </td>
   </tr>
 
   <tr>
@@ -131,15 +119,6 @@
       <p align="center">
         <a href="https://github.com/camilo20262">
           <img src="https://streak-stats.demolab.com?user=camilo20262&theme=codeSTACKr&hide_border=true"/>
-        </a>
-      </p>
-    </td>
-
-    <td width="50%">
-      <h3 align="center"><strong>Último Proyecto</strong></h3>
-      <p align="center">
-        <a href="https://github.com/camilo20262/Trabajo-Final">
-          <img width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=camilo20262&repo=Trabajo-Final&theme=codeSTACKr&hide_border=true"/>
         </a>
       </p>
     </td>
