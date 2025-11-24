@@ -101,6 +101,7 @@
 ---
 
 # 📊 | Estadísticas de GitHub
+<div align="center">
 <table width="100%">
   <tr>
     <td width="50%">
@@ -124,7 +125,7 @@
     </td>
   </tr>
 </table>
-
+</div>
 <br>
 
 # 📈 | Actividad Reciente
