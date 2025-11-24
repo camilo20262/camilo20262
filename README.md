@@ -67,6 +67,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jholman-diaz-09a2a1391/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilo20263@gmail.com)
+
 <h2 align="left">📚 | Educación / Educación Complementaria </h2>
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
