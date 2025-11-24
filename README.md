@@ -63,12 +63,7 @@
 
 > 💬 *“Los datos transforman la experiencia en conocimiento — me apasiona construir sistemas que hagan posible ese cambio.”*
 
-<<<<<<< HEAD
 📫 **Conecta conmigo:**  
-=======
-📫 **Conecta conmigo:**
-
->>>>>>> 735fb11f375a245ff62417d5c5c770a722722557
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jholman-diaz-09a2a1391/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilo20263@gmail.com)
