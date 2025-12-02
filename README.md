@@ -193,12 +193,12 @@
        <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Data Engineer</strong>
-       <br>Enero 2024 – Presente<br>
+       <br>Noviembre 2025 – Presente<br>
       </td>
       <td align="center">
-       <strong>F. U. COMPENSAR</strong><br>
-       <img src="https://yt3.googleusercontent.com/SzuYcWEQsWoXwMW8HGO397jY-VLx5VJ3G2fKtr0un7SwF8TanqwTL5EZG_FGkpGpyfH_PihiGg=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
-       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
+       <strong>Data Camp</strong><br>
+       <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Ingeniería de software </strong>
        <br>Junio 2023 – Presente<br>
       </td>
@@ -208,14 +208,14 @@
        <img src="https://pbs.twimg.com/profile_images/1415324297304977411/p9kTpGac_400x400.png" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Habilidades Tecnológicas</strong>
-       <br>Enero 2021 – Presente<br>
+       <br>Noviembre 2025 – Presente<br>
       </td>
       <td align="center">
        <strong>F. U. KONRAD LORENZ</strong><br>
        <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
        <strong>Ingeniería de Sistemas</strong>
-       <br>Enero 2022 -  Diciembre 2022<br>
+       <br>Enero 2022 -  Presente<br>
       </td>
   </table>
 </div>
