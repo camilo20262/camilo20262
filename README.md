@@ -2,15 +2,15 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank" href="https://github.com/camilo20262">
 <img width="200" src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray">
-<img width="69" src="https://komarev.com/ghpvc/?username=camilo20262&label=&color=ff652f&style=for-the-badge&logo=star" alt="camilo20262" style="padding-right:20px;">
+<img width="50" src="https://komarev.com/ghpvc/?username=camilo20262&label=&color=ff652f&style=for-the-badge&logo=star" alt="camilo20262" style="padding-right:20px;">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="mailto:camilo20263@gmail.com">
-<img width="195" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img width="120" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/jholman-diaz-09a2a1391">
-<img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+<img width="70" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <!-- 🔥 Nuevo botón para tu sitio en Vercel -->
@@ -19,8 +19,9 @@
 </a>
 
 <a style="text-decoration: none" target="_blank" href="https://platzi.com/p/camilo20263/">
-<img width="120" src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
-</a> 
+<img width="120" src="https://img.shields.io/badge/Perfil_Platzi-B6F2CB?style=for-the-badge&logo=platzi&logoColor=000000&labelColor=B6F2CB">
+</a>
+
 </div>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Jholman+Diaz!;" />
