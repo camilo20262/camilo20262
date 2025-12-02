@@ -219,59 +219,25 @@
       </td>
   </table>
 </div>
-<h2 align="left">📊 | Estadísticas de GitHub </h2>
+
+# 📊 | Estadísticas de GitHub
 <table width="100%">
+
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lenguajes más Utilizados</strong></h3>
-      <p align="center">
-        <a href="https://github.com/pablordata">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablordata&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Estadísticas deL GitHub</strong></h3>
-      <p align="center">
-        <a href="https://github.com/pablordata">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablordata&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="pablordata" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-        </a>
-      </p>
-    </td>
-  </tr>
-<tr>
     <td width="50%">
       <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
-        <a href="https://github.com/pablordata">
-          <img align="center" src="https://streak-stats.demolab.com?user=pablordata&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
+        <a href="https://github.com/camilo20262">
+          <img src="https://streak-stats.demolab.com?user=camilo20262&theme=codeSTACKr&hide_border=true"/>
         </a>
       </p>
     </td>
-<td width="50%">
-  <h3 align="center"><strong>Último Proyecto</strong></h3>
-  <p align="center">
-    <a href="https://github.com/pablordata/proyecto-clima">
-      <img align="center" width="470" 
-           src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=proyecto-clima&theme=codeSTACKr&hide_border=true" 
-           alt="proyecto-clima"/>
-    </a>
-  </p>
-</td>
   </tr>
 </table>
-<br />
-<h2 align="left">📈 | Estadísticas de GitHub </h2>
+
+<br>
+
+# 📈 | Actividad Reciente
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=true" border-radius="15">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camilo20262&theme=react-dark&hide_border=true&area=true">
 </div>
