@@ -1,134 +1,275 @@
-# 👋 ¡Hola! Soy **Jholman Díaz**
 
-🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
-💼 Me especializo en la **extracción, transformación y carga (ETL)** de datos, el **diseño de data warehouses**, y la **visualización analítica** para la toma de decisiones empresariales.  
-📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
-🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**.
+<div align="right">
+<a style="text-decoration: none" target="_blank" href="https://github.com/camilo20262">
+<img width="200" src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray">
+<img width="69" src="https://komarev.com/ghpvc/?username=camilo20262&label=&color=ff652f&style=for-the-badge&logo=star" alt="camilo20262" style="padding-right:20px;">
+</a>
 
-🚀 Creo que la actitud, la curiosidad y la colaboración son tan importantes como la técnica. Me esfuerzo por mantener una mentalidad de aprendizaje continuo, compartir conocimiento y aportar siempre una energía positiva al equipo.
+<a style="text-decoration: none" target="_blank" href="mailto:camilo20263@gmail.com">
+<img width="195" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
----
+<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/jholman-diaz-09a2a1391">
+<img width="80" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-## 🧠 Conjunto de Habilidades
+<a style="text-decoration: none" target="_blank" href="https://platzi.com/p/camilo20263/">
+<img width="120" src="https://img.shields.io/badge/Perfil_Platzi-09e989?style=for-the-badge&logo=platzi&logoColor=white">
+</a>
+</div>
 
-### 💻 Lenguajes de Programación  
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Jholman+Diaz!;" />
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+<h2>👨🏻‍💻 | Acerca de mí</h2>   
+<br>Ingeniero de  Software  con más de 3 años de experiencia en el diseño y desarrollo de soluciones tecnológicas que buscan generar un impacto positivo en la vida de las personas 💡✨. Manejo lenguajes como SQL y Python, con capacidad para abordar tanto la programación de bajo como de alto nivel 🖥️📈. Soy una apasionada por la ingeniería de datos y la computación en la nube, particularmente en entornos AWS ☁️.
+</p>
+Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Business Intelligence y Developer SQL en algunas de las startups más importantes de Colombia 🇨🇴. Soy una persona analítica, autodidacta y siempre en búsqueda de nuevos retos 🔍💪, con el compromiso de liderar proyectos que verdaderamente marquen la diferencia y generen impacto 💼🌍.
 
----
-
-### ⚙️ Librerías y Frameworks  
-
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-
----
-
-### ☁️ Infraestructura y Nube  
-
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
-
----
-
-### 🗄️ Bases de Datos  
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)](https://www.oracle.com/)
-
----
-
-### 🧰 Herramientas  
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://ubuntu.com/)
-[![ZSH](https://img.shields.io/badge/ZSH-4EAA25?style=flat&logo=gnu-bash&logoColor=white)](https://www.zsh.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
-
----
-
-> 💬 *“Los datos transforman la experiencia en conocimiento — me apasiona construir sistemas que hagan posible ese cambio.”*
-
-📫 **Conecta conmigo:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jholman-diaz-09a2a1391/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:camilo20263@gmail.com)
-
----
-
-# 📚 | Educación / Educación Complementaria
+       
+<h2 align="left">🛠️ | Tecnologías Utilizadas</h2>
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">🤖 Inteligencias Artificiales:</td>
+        <td>   
+               <a style="text-decoration: none" target="_blank" href="https://gemini.google.com/app?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://chatgpt.com/" >
+               <img height="25" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://claude.ai/new" >
+               <img height="25" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://chat.deepseek.com/sign_in" >
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://github.com/features/copilot" >
+               <img height="25" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff&style=for-the-badge">
+               </a> 
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">💻 Lenguaje de Programación:</td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://www.python.org/" >
+               <img height="25" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is/sql/" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://learn.microsoft.com/es-es/office/vba/library-reference/concepts/getting-started-with-vba-in-office" >
+               <img height="25" src="https://img.shields.io/badge/.Visual Basic for Applications-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff)">
+               </a>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">💾 Datos:</td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://www.microsoft.com/es-co/sql-server/sql-server-downloads" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/Microsoft_SQL_Server-CC2927?logo=icons8-servidor-microsoft-sql-144&logoColor=white&style=for-the-badge">       
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://www.microsoft.com/es-es/power-platform/products/power-bi" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/-POWER BI-F2C811.svg?logo=powerbi_logo_icon_248795&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://www.postgresql.org/" >
+               <img height="25" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.oracle.com/co/" >
+               <img height="25" src="https://img.shields.io/badge/Oracle-FF0000?logo=oracle&logoColor=fff&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.tableau.com/es-es" >
+               <img height="25" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.mongodb.com/es" >
+               <img height="25" src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://learn.microsoft.com/es-es/power-query/power-query-what-is-power-query" >
+               <img height="25" src="https://img.shields.io/badge/Microsoft_Power_Qry-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://learn.microsoft.com/es-es/sql/integration-services/sql-server-integration-services?view=sql-server-ver16" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/SSIS_SQL_Server-CC2927?logo=icons8-servidor-microsoft-sql-144&logoColor=white&style=for-the-badge">  
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.jgarces.info/introduccion-a-informatica-powercenter/" >
+              <img height="25" src="https://img.shields.io/badge/R-6b78a7?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/D-15ca53?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/W-f8970d?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/M-2d0e51?style=for-the-badge&logo=microsoft-excel&logoColor=white"><img height="25" src="https://img.shields.io/badge/POWER CENTER-FFFFFF?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.microsoft.com/es-co/microsoft-365/access?" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/microsoft access-A80030.svg?logo=database&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://redash.io/" >
+               <img height="25" src="https://img.shields.io/badge/redash-708c99?style=for-the-badge&logo=redash">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://clevertap.com/es/" >
+               <img height="25" src="https://img.shields.io/badge/CleverTap-E60000?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.ibm.com/history/as-400" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/IBM AS400-7fff4c.svg?logo=ibm_logo_icon_181303&logoColor=white&style=for-the-badge">
+               </a>
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.microsoft.com/es-co/microsoft-365/excel" >
+               <img height="25" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+               </a>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">💻 Gestión de proyectos:</td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://www.atlassian.com/software/jira?" >
+               <img height="25" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">       
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://www.microsoft.com/es-co/microsoft-teams/log-in" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/-Microsoft TEAMS-6264A7.svg?logo=icons8-equipos-microsoft-2019-250&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://slack.com/intl/es-co" >
+               <img height="25" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.atlassian.com/es/software/confluence?" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/confluence-0052CC?logo=icons8-confluencia-atlasiana-250&logoColor=white&style=for-the-badge">       
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://github.com/" >
+               <img height="25" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">       
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://git-scm.com/" >
+               <img height="25" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">       
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://bitbucket.org/product/" >
+               <img height="25" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">       
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://workspace.google.com/intl/es-419/products/calendar/" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/GOOGLE CALENDAR-FFFFFF.svg?logo=icons8-calendario-de-google-240&logoColor=white&style=for-the-badge">
+               </a> 
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">⚡ Herramientas:</td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://code.visualstudio.com/" >
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://visualstudio.microsoft.com/es/" >
+               <img height="25" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://dbeaver.io/" >
+               <img height="25" src="https://img.shields.io/badge/dbeaver-8b7463?style=for-the-badge&logo=dbeaver&logoColor=white">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://workspace.google.com/intl/es-419/products/sheets/" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://www.notion.com/es" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/NOTION-FFFFFF.svg?logo=96556icons8-nocion-240&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://www.microsoft.com/es-co/microsoft-365/" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/OFFICE 365-7a82e7.svg?logo=icons8-microsoft-365-96&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://notepad-plus-plus.org/" >
+               <img height="25" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://excalidraw.com/" >
+               <img height="25" src="https://custom-icon-badges.herokuapp.com/badge/excalidraw-6965db.svg?logo=icons8-pluma-644&logoColor=white&style=for-the-badge">
+               </a>
+               <a style="text-decoration: none" target="_blank" href="https://www.canva.com/es_419/" >
+               <img height="25" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+               </a>
+        </td>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">☁️ Cloud:</td>
+        <td>
+               <a style="text-decoration: none" target="_blank" href="https://cloud.google.com/?hl=es" >
+               <img height="25" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge">
+               </a> 
+               <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is-aws/" >
+               <img height="25" src="https://img.shields.io/badge/AWS Amazon Web Services-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge">
+               </a> 
+        </td>   
+    </tr>
+</table>
+<h2 align="left">📚 | Educación / Educación Complementaria </h2>
 <div align="center">
   <table style="margin-left: auto; margin-right: auto;">
     <tr>
-       <td align="center">
-       <strong>F. U. KONRAD LORENZ</strong><br>
-       <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
-       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
-       <strong>Ingeniería de Sistemas</strong>
-       <br>Enero 2022 -  Presente<br>
-      </td>
       <td align="center">
        <strong>PLATZI</strong><br>
        <img src="https://yt3.googleusercontent.com/jSVrx7B9DIXfx7-Mh16nzdqXcBFoa-FV3fgItxePwv17Dst-U-JuC3_TR6rLq0quRjJPpHy5RQ=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Data Engineer</strong>
-       <br>Noviembre 2025 – Presente<br>
+       <br>Enero 2024 – Presente<br>
       </td>
       <td align="center">
-       <strong>DATACAMP</strong><br>  
-       <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <strong>F. U. COMPENSAR</strong><br>
+       <img src="https://yt3.googleusercontent.com/SzuYcWEQsWoXwMW8HGO397jY-VLx5VJ3G2fKtr0un7SwF8TanqwTL5EZG_FGkpGpyfH_PihiGg=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
+       <strong>Ingeniería de software </strong>
+       <br>Junio 2023 – Presente<br>
+      </td>
+      </td>
+      <td align="center">
+       <strong>UDEMY</strong><br>
+       <img src="https://pbs.twimg.com/profile_images/1415324297304977411/p9kTpGac_400x400.png" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
        <strong>Habilidades Tecnológicas</strong>
-       <br>Noviembre 2025 – Presente<br>
+       <br>Enero 2021 – Presente<br>
+      </td>
+      <td align="center">
+       <strong>F. U. KONRAD LORENZ</strong><br>
+       <img src="https://yt3.googleusercontent.com/7OF6fCvYRpJT-d1Fta3FBlBZWbrxah9fYleMEXYCd7DhXQFOTYdLuOBpv7rwKoyfVXLdRE8YxQ=s160-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
+       <img src="https://flagcdn.com/co.svg" height="20" alt="Ec.png"/><br>
+       <strong>Ingeniería de Sistemas</strong>
+       <br>Enero 2022 -  Diciembre 2022<br>
       </td>
   </table>
 </div>
-
----
-
-# 📊 | Estadísticas de GitHub
-<div align="center">
+<h2 align="left">📊 | Estadísticas de GitHub </h2>
 <table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Lenguajes más Utilizados</strong></h3>
       <p align="center">
-        <a href="https://github.com/camilo20262">
-          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilo20262&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true"/>
+        <a href="https://github.com/pablordata">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablordata&show_icons=true&locale=en&layout=compact&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Estadísticas deL GitHub</strong></h3>
+      <p align="center">
+        <a href="https://github.com/pablordata">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=pablordata&count_private=true&show_icons=true&theme=codeSTACKr&hide_border=true" alt="pablordata" />
         </a>
       </p>
     </td>
   </tr>
-
   <tr>
+    <td width="50%">
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+        </a>
+      </p>
+    </td>
+  </tr>
+<tr>
     <td width="50%">
       <h3 align="center"><strong>Estadísticas de Racha</strong></h3>
       <p align="center">
-        <a href="https://github.com/camilo20262">
-          <img src="https://streak-stats.demolab.com?user=camilo20262&theme=codeSTACKr&hide_border=true"/>
+        <a href="https://github.com/pablordata">
+          <img align="center" src="https://streak-stats.demolab.com?user=pablordata&theme=codeSTACKr&hide_border=true" alt="pablordata"/>
         </a>
       </p>
     </td>
+<td width="50%">
+  <h3 align="center"><strong>Último Proyecto</strong></h3>
+  <p align="center">
+    <a href="https://github.com/pablordata/proyecto-clima">
+      <img align="center" width="470" 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=pablordata&repo=proyecto-clima&theme=codeSTACKr&hide_border=true" 
+           alt="proyecto-clima"/>
+    </a>
+  </p>
+</td>
   </tr>
 </table>
-</div>
-<br>
-
-# 📈 | Actividad Reciente
+<br />
+<h2 align="left">📈 | Estadísticas de GitHub </h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=camilo20262&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pablordata&bg_color=09131b&color=FFFFFF&line=ff652f&point=ffe400&area=true&hide_border=true&area_color=ff652f&grid=true" border-radius="15">
 </div>
