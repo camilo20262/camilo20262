@@ -21,7 +21,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Jholman+Diaz!;" />
 
 <h2>👨🏻‍💻 | Acerca de mí</h2>   
-<br>🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
+
+🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
 💼 Me especializo en la **extracción, transformación y carga (ETL)** de datos, el **diseño de data warehouses**, y la **visualización analítica** para la toma de decisiones empresariales.  
 📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
 🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**.
@@ -30,6 +31,9 @@
 
 ---
 
+## 🧠 Conjunto de Habilidades
+
+### 💻 Lenguajes de Programación  
        
 <h2 align="left">🛠️ | Tecnologías Utilizadas</h2>
 <table>
