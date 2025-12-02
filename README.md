@@ -2,11 +2,10 @@
 <div align="right">
 <a style="text-decoration: none" target="_blank" href="https://github.com/camilo20262">
 <img width="200" src="https://img.shields.io/badge/-VISITAS     DEL     PERFIL-gray?style=for-the-badge&logo=GitHub&labelColor=gray">
-<img width="50" src="https://komarev.com/ghpvc/?username=camilo20262&label=&color=ff652f&style=for-the-badge&logo=star" alt="camilo20262" style="padding-right:20px;">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="mailto:camilo20263@gmail.com">
-<img width="120" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img width="160" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/jholman-diaz-09a2a1391">
