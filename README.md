@@ -199,7 +199,7 @@
        <strong>Data Camp</strong><br>
        <img src="https://yt3.googleusercontent.com/ytc/AIdro_m6psai1Pd5oG3nGbw_hVfG-qmJ8R1ntco83MTXDf5cdoo=s900-c-k-c0x00ffffff-no-rj" width="90" alt="UPS.png"/><br>
        <img src="https://flagcdn.com/us.svg" height="20" alt="Ec.png"/><br>
-       <strong>Ingeniería de software </strong>
+       <strong>Data Engineer </strong>
        <br>Junio 2023 – Presente<br>
       </td>
       </td>
