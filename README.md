@@ -25,14 +25,11 @@
 🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
 💼 Me especializo en la **extracción, transformación y carga (ETL)** de datos, el **diseño de data warehouses**, y la **visualización analítica** para la toma de decisiones empresariales.  
 📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
-🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**.
+🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**
+
 🚀 Creo que la actitud, la curiosidad y la colaboración son tan importantes como la técnica. Me esfuerzo por mantener una mentalidad de aprendizaje continuo, compartir conocimiento y aportar siempre una energía positiva al equipo.
 
----
-
-## 🧠 Conjunto de Habilidades
-
-### 💻 Lenguajes de Programación  
+ 
        
 <h2 align="left">🛠️ | Tecnologías Utilizadas</h2>
 <table>
@@ -181,9 +178,6 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">☁️ Cloud:</td>
         <td>
-               <a style="text-decoration: none" target="_blank" href="https://cloud.google.com/?hl=es" >
-               <img height="25" src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge">
-               </a> 
                <a style="text-decoration: none" target="_blank" href="https://aws.amazon.com/es/what-is-aws/" >
                <img height="25" src="https://img.shields.io/badge/AWS Amazon Web Services-%23FF9900.svg?logo=amazon-web-services&logoColor=white&style=for-the-badge">
                </a> 
