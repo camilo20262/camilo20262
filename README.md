@@ -21,9 +21,14 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola+Mundo!+👋;+Soy+Jholman+Diaz!;" />
 
 <h2>👨🏻‍💻 | Acerca de mí</h2>   
-<br>Ingeniero de  Software  con más de 3 años de experiencia en el diseño y desarrollo de soluciones tecnológicas que buscan generar un impacto positivo en la vida de las personas 💡✨. Manejo lenguajes como SQL y Python, con capacidad para abordar tanto la programación de bajo como de alto nivel 🖥️📈. Soy una apasionada por la ingeniería de datos y la computación en la nube, particularmente en entornos AWS ☁️.
-</p>
-Desde 2021, he trabajado en la industria tecnológica, destacando en roles de Business Intelligence y Developer SQL en algunas de las startups más importantes de Colombia 🇨🇴. Soy una persona analítica, autodidacta y siempre en búsqueda de nuevos retos 🔍💪, con el compromiso de liderar proyectos que verdaderamente marquen la diferencia y generen impacto 💼🌍.
+<br>🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
+💼 Me especializo en la **extracción, transformación y carga (ETL)** de datos, el **diseño de data warehouses**, y la **visualización analítica** para la toma de decisiones empresariales.  
+📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
+🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**.
+
+🚀 Creo que la actitud, la curiosidad y la colaboración son tan importantes como la técnica. Me esfuerzo por mantener una mentalidad de aprendizaje continuo, compartir conocimiento y aportar siempre una energía positiva al equipo.
+
+---
 
        
 <h2 align="left">🛠️ | Tecnologías Utilizadas</h2>
