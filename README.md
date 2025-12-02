@@ -5,7 +5,7 @@
 </a>
 
 <a style="text-decoration: none" target="_blank" href="mailto:camilo20263@gmail.com">
-<img width="160" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img width="190" src="https://img.shields.io/badge/camilo20263@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/jholman-diaz-09a2a1391">
