@@ -27,12 +27,13 @@
 
 <h2>👨🏻‍💻 | Acerca de mí</h2>   
 
-🎓 Soy **Ingeniero de Sistemas** enfocado en la **Ingeniería de Datos** y el **Business Intelligence (BI)**.  
-💼 Me especializo en la **extracción, transformación y carga (ETL)** de datos, el **diseño de data warehouses**, y la **visualización analítica** para la toma de decisiones empresariales.  
-📊 Mi objetivo es transformar datos crudos en información útil y estratégica.  
-🤝 Estoy abierto a colaborar en proyectos relacionados con **Data Engineering, BI, Big Data y Cloud Data Platforms**
+Data Analyst with a background in Systems Engineering and experience in data optimization to support strategic
+decision-making. I am skilled in data analysis using tools such as SQL, Python, and advanced Excel, with a focus on
+report automation and dashboard development in Power BI, Tableau, and Looker. Experienced in working with
+operational and business metrics, driving efficiency, process improvement, and performance control. Committed to
+continuous learning and new challenges, contributing effectively to team-based projects and high-impact initiatives.
 
-🚀 Creo que la actitud, la curiosidad y la colaboración son tan importantes como la técnica. Me esfuerzo por mantener una mentalidad de aprendizaje continuo, compartir conocimiento y aportar siempre una energía positiva al equipo.
+
 
  
        
